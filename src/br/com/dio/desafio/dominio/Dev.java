@@ -32,7 +32,6 @@ public class Dev {
         return soma;
     }
 
-
     public String getNome() {
         return nome;
     }

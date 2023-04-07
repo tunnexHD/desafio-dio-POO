@@ -43,7 +43,7 @@ public class Main {
         System.out.println("-------");
 
         Dev devTunnex = new Dev();
-        devTunnex.setNome("Joao");
+        devTunnex.setNome("Tunnex");
         devTunnex.inscreverBootcamp(bootcamp);
         System.out.println("Conteúdos Inscritos Tunnex:" + devTunnex.getConteudosInscritos());
         devTunnex.progredir();
